@@ -1,6 +1,8 @@
-red
+reiid
 orange
 yellow
 green
 blue
 Indigo
+violet
+black
