@@ -1,4 +1,4 @@
-reiid
+red
 orange
 yellow
 green
